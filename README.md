@@ -189,6 +189,7 @@ Langkah - langkah :
 Kendala : 
 - Kesulitan mencari paket mysql yang berisi perintah query select (no 4)
 - Saat mencari username dan password untuk FTP awalnya masih manual (no 6)
+- Bingung memahami soal karena diminta paket pengambilan file namun paket pengambilan file tidak ada (no 8)
 - Bingung saat mencari ip dari milik kita sendiri (no 15)
 
 Pembagian Tugas :
